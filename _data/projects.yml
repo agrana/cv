@@ -1,16 +1,25 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: EV Charging Network Infrastructure
+  role: Lead SRE
+  duration: 2023
+  description: Managed and optimized a network of public and private EV chargers hosted on AWS EKS, implementing SLIs, SLOs, and error budgets for improved reliability
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Cloud Migration & Modernization
+  role: Senior Cloud Engineer
+  duration: 2016-2019
+  description: Migrated compute infrastructure from EC2 Classic to VPC, databases from EC2 to Aurora, and built serverless solutions using Lambda, API Gateway, and Puppeteer
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: CI/CD Pipeline Development
+  role: DevOps Engineer
+  duration: 2019-2021
+  description: Developed comprehensive CI/CD pipelines for on-premise deployments and led Azure DevOps adoption for continuous integration, delivery, and testing
+
+- project: Infrastructure Automation
+  role: Infrastructure Lead
+  duration: 2013-2016
+  description: Built data centers in US & Spain, introduced virtualization, automated deployments and patching, and improved product performance through load testing
+
+- project: Government Infrastructure Projects
+  role: Senior Linux Sysadmin
+  duration: 2012-2013
+  description: Led Zimbra email centralization, government portals infrastructure, and datacenter migration projects using modern automation tools

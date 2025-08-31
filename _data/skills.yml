@@ -1,12 +1,25 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technical Skills
+- skill: AWS & Azure Cloud Platforms
+  description: 10+ years of experience with AWS & Azure cloud services, including serverless, CI/CD/CT, and GitOps
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Infrastructure as Code
+  description: Terraform, CloudFormation, configuration management with Ansible and Chef
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programming Languages
+  description: Python, Node.js (server-side), Linux troubleshooting & performance tuning
+
+- skill: DevOps & CI/CD
+  description: GitLab CI/CD, Azure DevOps, automated deployments, infrastructure automation
+
+- skill: Monitoring & Observability
+  description: APM, tracing, SLIs, SLOs, error budgets, performance monitoring
+
+- skill: Soft Skills
+  description: Customer value-focused, ownership & accountability, positive attitude toward challenges, team development & mentoring, continuous learner, Agile methodologies (Scrum, Kanban)
+
+- skill: Languages
+  description: English (Full professional proficiency), Spanish (Native)
+
+- skill: Certifications
+  description: AWS Certified DevOps Engineer – Professional (Apr 2022 – Apr 2025), Azure Developer Associate (2021 – 2023), MLOps Specialization (Coursera) (2022), CCNA – Cisco (2006 – 2009)

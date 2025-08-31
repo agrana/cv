@@ -1,13 +1,37 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Tecnico en Electronica Informatica
+  uni: ORT Uruguay
+  year: 2001 &mdash; 2004
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Technical degree in Electronics and Computer Science
+  summary: Completed technical studies in electronics and computer science
 
-- degree: High School Diploma
-  uni: Springfield High School
+- degree: Linux Operating Systems (entry-level)
+  uni: ORT Uruguay
   year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  award: Entry-level Linux certification
+  summary: Entry-level Linux operating systems course
+
+- degree: Linux Administration (advanced)
+  uni: ORT Uruguay
+  year: 2005
+  award: Advanced Linux administration certification
+  summary: Advanced Linux system administration course
+
+- degree: Backend Developer (Node.js, Express, MongoDB)
+  uni: Hack Academy
+  year: May &mdash; Jun 2018
+  award: Backend development certification
+  summary: Intensive backend development course covering Node.js, Express, and MongoDB
+
+- degree: CCNA - Cisco Career Certifications
+  uni: Cisco
+  year: 2006 &mdash; 2009
+  award: CCNA certification
+  summary: Cisco Certified Network Associate certification
+
+- degree: MLOps Specialization
+  uni: Coursera
+  year: Oct 2021 &mdash; Jan 2022
+  award: MLOps Specialization certificate
+  summary: Complete MLOps specialization including Intro to ML in Production, ML Data Lifecycle in Production, ML Modeling Pipelines in Production, and Deploying ML Models in Production
