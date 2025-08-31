@@ -1,7 +1,7 @@
 # Degree
 - degree: Tecnico en Electronica Informatica
   uni: ORT Uruguay
-  year: 2001 &mdash; 2004
+  year: 2001 - 2004
   awards:
     - award: Technical degree in Electronics and Computer Science
   summary: Completed technical studies in electronics and computer science
@@ -20,18 +20,18 @@
 
 - degree: Backend Developer (Node.js, Express, MongoDB)
   uni: Hack Academy
-  year: May &mdash; Jun 2018
+  year: May - Jun 2018
   award: Backend development certification
   summary: Intensive backend development course covering Node.js, Express, and MongoDB
 
 - degree: CCNA - Cisco Career Certifications
   uni: Cisco
-  year: 2006 &mdash; 2009
+  year: 2006 - 2009
   award: CCNA certification
   summary: Cisco Certified Network Associate certification
 
 - degree: MLOps Specialization
   uni: Coursera
-  year: Oct 2021 &mdash; Jan 2022
+  year: Oct 2021 - Jan 2022
   award: MLOps Specialization certificate
   summary: Complete MLOps specialization including Intro to ML in Production, ML Data Lifecycle in Production, ML Modeling Pipelines in Production, and Deploying ML Models in Production
