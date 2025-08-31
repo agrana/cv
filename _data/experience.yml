@@ -7,7 +7,7 @@
 - company: Shell Recharge Solutions
   position: Senior Site Reliability Engineer
   duration: Jan 2023 - Dec 2023
-  summary: Managed a network of public and private EV chargers hosted on AWS (EKS). Defined SLIs, SLOs, and error budgets with development teams. Acted as primary escalation point for cloud-related issues. Key AWS services: EKS, RDS Aurora PostgreSQL, Lambda, AppSync. Introduced MongoDB Atlas as document store.
+  summary: "Managed a network of public and private EV chargers hosted on AWS (EKS). Defined SLIs, SLOs, and error budgets with development teams. Acted as primary escalation point for cloud-related issues. Key AWS services: EKS, RDS Aurora PostgreSQL, Lambda, AppSync. Introduced MongoDB Atlas as document store"
 
 - company: WCC
   position: Senior Site Reliability Engineer
@@ -17,7 +17,7 @@
 - company: ASML via Itility
   position: DevOps Engineer / Consultant
   duration: Jul 2019 - Sep 2021
-  summary: Developed CI/CD pipelines for on-premise deployments. Infrastructure automation with Ansible (DC/OS). Led adoption of Azure & Azure DevOps for CI/CD/CT. Collaborated with CCoE on secure cloud adoption.
+  summary: Developed CI/CD pipelines for on-premise deployments. Infrastructure automation with Ansible (DC/OS). Led adoption of Azure and Azure DevOps for CI/CD/CT. Collaborated with CCoE on secure cloud adoption.
 
 - company: Liveclicker
   position: Senior Cloud Engineer
@@ -27,12 +27,12 @@
 - company: inConcert
   position: Head of IT Infrastructure
   duration: Jul 2013 - Nov 2016
-  summary: Led IT infra reliability, security, scalability. Built data centers in US & Spain. Last escalation for infra incidents. Migrated customers to SaaS in Mexico & Spain. Introduced virtualization, automated deployments, patching. Improved product performance with load testing.
+  summary: Led IT infra reliability, security, scalability. Built data centers in US and Spain. Last escalation for infra incidents. Migrated customers to SaaS in Mexico and Spain. Introduced virtualization, automated deployments, patching. Improved product performance with load testing.
 
 - company: HG via NetLabs
   position: Senior Linux Sysadmin
   duration: Jul 2012 - Jul 2013
-  summary: Government projects, Unix system admin. Suggested improvements to infra & apps. Reviewed changes, interacted with DBAs, sysadmins. Automated daily sysadmin tasks. Projects: Zimbra email centralization, gov portals infra, datacenter migration. Tools: Apache, Nginx, Postfix, Zimbra, Tomcat, Jboss, WebSphere, VMware, Puppet.
+  summary: "Government projects, Unix system admin. Suggested improvements to infra and apps. Reviewed changes, interacted with DBAs, sysadmins. Automated daily sysadmin tasks. Projects: Zimbra email centralization, gov portals infra, datacenter migration. Tools: Apache, Nginx, Postfix, Zimbra, Tomcat, Jboss, WebSphere, VMware, Puppet"
 
 - company: Abitab S.A.
   position: Infrastructure Technician
@@ -47,7 +47,7 @@
 - company: Telecom Networks
   position: System Administrator
   duration: Sep 2008 - Jul 2011
-  summary: Ensured IT infra availability & security. SIP Trunking, Asterisk, NEC PBX, Cisco routers. Windows AD, file servers, SharePoint. MySQL optimization, replication, backups.
+  summary: Ensured IT infra availability and security. SIP Trunking, Asterisk, NEC PBX, Cisco routers. Windows AD, file servers, SharePoint. MySQL optimization, replication, backups.
 
 - company: SouthLat Technology S.A.
   position: Systems/Network Administrator
