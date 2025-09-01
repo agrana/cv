@@ -1,9 +1,10 @@
 # Certifications
+
 - award: AWS Certified Solutions Architect – Professional
   organization: Amazon Web Services
   year: Apr 2024 – Apr 2027
   summary: Earners of this certification have an extensive understanding of designing technical strategies to accomplish specific business goals. They demonstrated the ability to balance best practices and trade-offs based on business context. Badge owners are able to design solutions across multiple platforms and providers.
-  
+
 - award: AWS Certified DevOps Engineer – Professional
   organization: Amazon Web Services
   year: Apr 2022 – Apr 2025
@@ -19,11 +20,11 @@
   year: 2022
   summary: Complete MLOps specialization including ML in Production, Data Lifecycle, Modeling Pipelines, and Model Deployment.
 
-- award: "KCNA: Kubernetes and Cloud Native Associate"
-  organization: Earners of this designation demonstrated a basic knowledge of Kubernetes and cloud-native technologies, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud-native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud-native security.
+- award: KCNA - Kubernetes and Cloud Native Associate
+  organization: The Linux Foundation
   year: 2023 - 2026
-  summary: Complete MLOps specialization including ML in Production, Data Lifecycle, Modeling Pipelines, and Model Deployment.
-  
+  summary: Earners of this designation demonstrated a basic knowledge of Kubernetes and cloud-native technologies, including how to deploy an application using basic kubectl commands, the architecture of Kubernetes (containers, pods, nodes, clusters), understanding the cloud-native landscape and projects (storage, networking, GitOps, service mesh), and understanding the principles of cloud-native security.
+
 - award: GitOps Fundamentals
   organization: Codefresh
   year: 2024 – 2027
