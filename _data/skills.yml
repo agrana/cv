@@ -1,22 +1,32 @@
 # Skills
+
 # Technical Skills
 - skill: AWS & Azure Cloud Platforms
-  description: 10+ years of experience with AWS & Azure cloud services, including serverless, CI/CD/CT, and GitOps
+  description: AWS & Azure cloud services.
 
 - skill: Infrastructure as Code
-  description: Terraform, CloudFormation, configuration management with Ansible and Chef
+  description: Terraform, CloudFormation, Ansible
 
 - skill: Programming Languages
-  description: Python, Node.js (server-side), Linux troubleshooting & performance tuning
+  description: Python, Javascript
 
 - skill: DevOps & CI/CD
-  description: GitLab CI/CD, Azure DevOps, automated deployments, infrastructure automation
+  description: GitLab, Azure DevOps, Jenkins, Github Actions
 
+- skill: System Design
+  description: Capacity planning, scalability ressilience
+  
 - skill: Monitoring & Observability
-  description: APM, tracing, SLIs, SLOs, error budgets, performance monitoring
+  description: Defining SLIs, SLOs. Implemented metrics logging and tracing in several observability platforms datadog, splunk, instana, grafana (loki, mimir).
 
+# Soft Skills
+- skill: Agile Methodologies
+  description: Comfortable working in agile methodologies (Scrum, Kanban)
+  
 - skill: Soft Skills
-  description: Customer value-focused, ownership & accountability, positive attitude toward challenges, team development & mentoring, continuous learner, Agile methodologies (Scrum, Kanban)
+  description: Customer value-focused, ownership & accountability, positive attitude toward challenges, team development & mentoring, continuous learner.
 
+# Languages
 - skill: Languages
-  description: English (Full professional proficiency), Spanish (Native)
+  description: English (Full professional proficiency), Spanish (Native), Portuguese (Begginer), Dutch (Beginner)
+  
