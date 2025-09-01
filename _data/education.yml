@@ -1,10 +1,10 @@
 # Degree
-- degree: Tecnico en Electronica Informatica
+- degree: Computer Electronics
   uni: ORT Uruguay
-  year: 2001 - 2004
+  year: 2002 - 2004
   awards:
     - award: Technical degree in Electronics and Computer Science
-  summary: Completed technical studies in electronics and computer science
+  summary: Technical studies in electronics and computer science
 
 - degree: Linux Operating Systems (entry-level)
   uni: ORT Uruguay
@@ -12,7 +12,7 @@
   award: Entry-level Linux certification
   summary: Entry-level Linux operating systems course
 
-- degree: Linux Administration (advanced)
+- degree: Linux Systems Administration (advanced)
   uni: ORT Uruguay
   year: 2005
   award: Advanced Linux administration certification
@@ -22,7 +22,7 @@
   uni: Hack Academy
   year: May - Jun 2018
   award: Backend development certification
-  summary: Intensive backend development course covering Node.js, Express, and MongoDB
+  summary: Intensive backend development bootcamp covering Node.js, Express, and MongoDB
 
 - degree: CCNA - Cisco Career Certifications
   uni: Cisco
